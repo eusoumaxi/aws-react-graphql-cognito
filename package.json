@@ -39,7 +39,7 @@
   "dependencies": {
     "aws-amplify": "^3.0.18",
     "aws-amplify-react": "^4.1.17",
-    "aws-sdk": "^2.704.0",
+    "aws-sdk": "^2.814.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
